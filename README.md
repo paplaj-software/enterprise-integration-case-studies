@@ -4,9 +4,7 @@ A collection of generalized enterprise solution architectures and technical case
 
 - Enterprise Integration Platforms
 - Apache Camel & Enterprise Integration Patterns (EIP)
-- Oracle Integration Cloud (OIC)
 - API Development & System Integration
-- Workflow Automation
 - Cloud-Native Solutions
 
 ## Case Studies
@@ -14,14 +12,6 @@ A collection of generalized enterprise solution architectures and technical case
 ### 1. Enterprise Integration Platform using Apache Camel
 Scalable integration architecture using Apache Camel, Spring Boot, and Enterprise Integration Patterns.
 
-### 2. Oracle Integration Cloud (OIC) Enterprise Integration
-Cloud-native integrations between external business systems and Oracle Fusion Applications.
-
-### 3. Enterprise API Integration Platform
-Reusable API management and integration framework for enterprise applications.
-
-### 4. Workflow Automation Solution
-Event-driven workflow orchestration and business process automation.
 
 ---
 
