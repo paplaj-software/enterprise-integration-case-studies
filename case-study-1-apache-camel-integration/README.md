@@ -5,6 +5,10 @@
 
 # Enterprise Integration Platform using Apache Camel
 
+A generalized enterprise integration case study demonstrating scalable, secure, and reliable system integration using Apache Camel, Spring Boot, Enterprise Integration Patterns (EIP), and cloud-native technologies.
+
+---
+
 ## Overview
 
 Designed and implemented a scalable enterprise integration platform to enable secure, reliable, and automated data exchange between multiple business applications and enterprise systems.
