@@ -172,7 +172,7 @@ The solution leveraged standard enterprise integration patterns supported by Ora
 
 This case study is based on real-world enterprise experience.
 
-To respect client confidentiality and NDA obligations, all business details, implementation specifics, architecture diagrams, source code, and identifying information have been generalized or recreated for demonstration purposes.
+To respect client confidentiality and NDA obligations, all business details, implementation specifics, architecture diagrams, source code, and identifying information have been intentionally generalized or recreated for demonstration purposes.
 
 The content is intended solely to showcase technical capabilities, solution approaches, and enterprise integration expertise.
 
@@ -180,4 +180,14 @@ No proprietary code, client data, or confidential information is included in thi
 
 ---
 
-⭐ If you found these case studies useful, feel free to connect with me on LinkedIn.
+## Connect with Me
+
+💼 LinkedIn: [Babu Lal](https://www.linkedin.com/in/babu-lal-91712873/)
+
+🏢 Company: [Paplaj Software Services](https://www.linkedin.com/company/paplaj-software-services/)
+
+💻 GitHub: [paplaj-software](https://github.com/paplaj-software)
+
+---
+
+⭐ Feel free to connect if you're interested in Enterprise Integration, ETRM/CTRM Solutions, APIs, Workflow Automation, AI, and Cloud-Native Architectures.
