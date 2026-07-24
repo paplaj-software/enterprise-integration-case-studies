@@ -32,13 +32,15 @@ No proprietary code, client data, or confidential information is included in thi
 
 ---
 
-## Connect with Me
+## Connect with Us
 
-💼 LinkedIn: [Babu Lal](https://www.linkedin.com/in/babu-lal-91712873/)
+🌐 **Website:** [paplajsoftware.com](https://paplajsoftware.com)
 
-🏢 Company: [Paplaj Software Services](https://www.linkedin.com/company/paplaj-software-services/)
+🏢 **LinkedIn:** [Paplaj Software Services](https://www.linkedin.com/company/paplaj-software-services/)
 
-💻 GitHub: [paplaj-software](https://github.com/paplaj-software)
+💻 **GitHub:** [paplaj-software](https://github.com/paplaj-software)
+
+📧 **Email:** contact@paplajsoftware.com
 
 ---
 
