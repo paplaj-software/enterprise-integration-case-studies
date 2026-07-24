@@ -34,7 +34,7 @@ No proprietary code, client data, or confidential information is included in thi
 
 ## Connect with Us
 
-🌐 **Website:** [paplajsoftware.com](https://paplajsoftware.com)
+🌐 **Website:** [paplajsoftware.com](https://www.paplajsoftware.com)
 
 🏢 **LinkedIn:** [Paplaj Software Services](https://www.linkedin.com/company/paplaj-software-services/)
 
